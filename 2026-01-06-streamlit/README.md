@@ -75,6 +75,18 @@ streamlit run 06.session.py
 
 <img width="595" height="146" alt="image" src="https://github.com/user-attachments/assets/5d0b3400-7018-4b4c-a3bf-a4688d00902f" />
 
+## 07.number_game.py
+```
+streamlit run 07.number_game.py
+```
+
+<img width="1416" height="884" alt="image" src="https://github.com/user-attachments/assets/a9d41107-cfae-46b9-b3d5-a1cbc06d51ae" />
+
+<img width="959" height="567" alt="image" src="https://github.com/user-attachments/assets/4bf65347-739a-4f8d-a852-da6b392fe8a8" />
+
+
+
+
 
 
 
