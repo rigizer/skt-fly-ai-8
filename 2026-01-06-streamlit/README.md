@@ -48,6 +48,17 @@ streamlit run 03.line_chart.py
 <br/>
 <img width="578" height="281" alt="image" src="https://github.com/user-attachments/assets/0983c767-d03a-4528-8fbc-c9885072df19" />
 
+## 04.map.py
+```
+streamlit run 04.map.py
+```
+
+<img width="521" height="271" alt="image" src="https://github.com/user-attachments/assets/81e0530c-ddba-4f23-8261-e204392129da" />
+
+<img width="592" height="444" alt="image" src="https://github.com/user-attachments/assets/803dbb97-9c90-4b15-89fd-6a74b16753d6" />
+
+
+
 
 
 
