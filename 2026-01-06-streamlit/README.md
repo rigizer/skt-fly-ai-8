@@ -37,5 +37,5 @@ streamlit run 02.dataframe.py
 
 <img width="609" height="256" alt="image" src="https://github.com/user-attachments/assets/2f266738-969f-4a4c-aa9f-844dcf9ce863" />
 
-<<img width="584" height="221" alt="image" src="https://github.com/user-attachments/assets/4fe68644-da81-423d-9b21-b5e9857e0d3e" />
+<img width="584" height="221" alt="image" src="https://github.com/user-attachments/assets/4fe68644-da81-423d-9b21-b5e9857e0d3e" />
 
