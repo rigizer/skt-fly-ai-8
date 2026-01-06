@@ -66,6 +66,16 @@ streamlit run 05.widget.py
 <br/>
 <img width="612" height="147" alt="image" src="https://github.com/user-attachments/assets/f09e4bb8-8b36-4b20-a66b-4e9aa10c5ab9" />
 
+## 06.session.py
+```
+streamlit run 06.session.py
+```
+
+<img width="427" height="161" alt="image" src="https://github.com/user-attachments/assets/7c7d8f8c-9cd6-42ae-a767-c38d3a7cc07c" />
+
+<img width="595" height="146" alt="image" src="https://github.com/user-attachments/assets/5d0b3400-7018-4b4c-a3bf-a4688d00902f" />
+
+
 
 
 
