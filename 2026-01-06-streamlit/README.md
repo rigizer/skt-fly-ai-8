@@ -11,5 +11,9 @@ python -m venv .venv
 
 # 실행
 ```
-streamlit run 2026-01-06-streamlit/01.hello_streamlit.py
+streamlit run 01.hello_streamlit.py
 ```
+
+<img width="613" height="191" alt="image" src="https://github.com/user-attachments/assets/c32e30e7-3a49-498f-8d5f-e13f8715f5ea" />
+
+<img width="436" height="240" alt="image" src="https://github.com/user-attachments/assets/59bd4221-187c-4cdc-8368-b63a3c560395" />
