@@ -9,6 +9,16 @@ python -m venv .venv
 .\.venv\Scripts\activate
 ```
 
+- 패키지 일괄 설치
+```
+pip install -r requirements.txt
+```
+
+- 패키지 일괄 내보내기
+```
+pip freeze > requirements.txt
+```
+
 # 실행
 ```
 streamlit run 01.hello_streamlit.py
