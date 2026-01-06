@@ -39,3 +39,19 @@ streamlit run 02.dataframe.py
 
 <img width="584" height="221" alt="image" src="https://github.com/user-attachments/assets/4fe68644-da81-423d-9b21-b5e9857e0d3e" />
 
+## 03.line_chart.py
+```
+streamlit run 03.line_chart.py
+```
+
+<img width="391" height="256" alt="image" src="https://github.com/user-attachments/assets/4fb13f6e-f54d-4225-a6d6-4b258c762134" />
+<br/>
+<img width="578" height="281" alt="image" src="https://github.com/user-attachments/assets/0983c767-d03a-4528-8fbc-c9885072df19" />
+
+
+
+
+
+
+
+
