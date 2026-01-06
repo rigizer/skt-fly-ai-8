@@ -57,10 +57,14 @@ streamlit run 04.map.py
 
 <img width="592" height="444" alt="image" src="https://github.com/user-attachments/assets/803dbb97-9c90-4b15-89fd-6a74b16753d6" />
 
+## 05.widget.py
+```
+streamlit run 05.widget.py
+```
 
-
-
-
+<img width="394" height="157" alt="image" src="https://github.com/user-attachments/assets/18e6885f-5599-4f7d-bed9-f5cb945366cd" />
+<br/>
+<img width="612" height="147" alt="image" src="https://github.com/user-attachments/assets/f09e4bb8-8b36-4b20-a66b-4e9aa10c5ab9" />
 
 
 
